@@ -1,0 +1,9 @@
+{
+  "name": "nodets-cron-test",
+  "type": "module",
+  "dependencies": {
+    "atatus-nodejs": "^3.3.0",
+    "node-cron": "^4.2.1",
+    "typescript": "^5.9.2"
+  }
+}
